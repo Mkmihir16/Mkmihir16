@@ -7,7 +7,7 @@ I'm a passionate developer focusing on web development and problem-solving throu
 - 🔭 I’m looking to collaborate on **Web Development Projects**
 - 💡 I’m currently learning more about **advanced React & backend architecture**
 - 💬 Ask me about anything related to **MERN, Next.js, or DSA**
-- 📫 Reach me via **[email :](mkmihir16@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/mihir-kalbende-a23374264/)**
+- 📫 Reach me via **[Email](mkmihir16@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/mihir-kalbende-a23374264/)**
 - 🎤 Fun fact: I love to perforom **stand-up comedy** and occasionally try performing it in front of my friends!
 
 ### 🛠️ Tech Stack
