@@ -1,4 +1,4 @@
-# Hi, I'm [Mihir Kalbende] 👋
+# Hi, I'm Mihir Kalbende 👋
 
 ### 🚀 About Me
 
