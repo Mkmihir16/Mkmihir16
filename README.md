@@ -18,11 +18,17 @@ I'm a passionate developer focusing on web development and problem-solving throu
 
 Let's build something great together! 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkmihir16&show_icons=true&theme=dark" width="400">
-</p>
+# 📊 GitHub Stats:
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkmihir16&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkmihir16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/pravin435916/pravin435916/blob/output/github-snake.svg" />
+</picture>
 
 <!---
 Mkmihir16/Mkmihir16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
