@@ -18,6 +18,12 @@ I'm a passionate developer focusing on web development and problem-solving throu
 
 Let's build something great together! 🚀
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkmihir16&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mkmihir16&theme=dark&hide_border=true" width="400">
+</p>
+
+
 
 <!---
 Mkmihir16/Mkmihir16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
